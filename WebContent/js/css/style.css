@@ -1,0 +1,70 @@
+/* .username {
+      border-bottom:1px solid #800000;
+      background-color: #ffebe6;
+}
+.btn{
+	background-color: #800000 !important;
+	border-color: #800000;
+}
+.x-form-field::placeholder{ 
+    color:#800000; 
+    font-weight: bold;
+} */
+
+.username{
+  border: 1px solid grey;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.panel-1{
+  border: 1px solid grey;
+  /* text-align: left; */
+  margin:auto auto;
+  background-color: #f2f2f2;
+}
+.btn
+{
+background-color: white !important;
+background-image: none;
+}
+.x-window-header-default-top{
+	background-color:white;
+}
+.x-btn-inner-default-small{
+	color: black;
+}
+.x-btn-default-small{
+	background-color:white;
+	border-width:0px;
+}
+.x-window-header-title-default{
+	color: black;
+}
+.x-window-header-default{
+	border-width: 0px !important;
+}
+.x-toolbar-footer{
+	background-color: white;
+}
+.registerbtn{
+	background-color:#5897ce;
+}
+.registerbtn .x-btn-inner-default-small{
+	color: white; 
+}
+.registerbtn.x-btn-over.x-btn-default-small{
+	color: white; 
+	background-color:#5897ce;
+}
+.x-btn-inner-default-small{
+	color: #5897ce;
+}
+.x-btn-over.x-btn-default-small{
+	border-color: white;
+	background-color:white;
+}
+h2{
+	margin-top: 8%;
+	margin-left:4%;
+}
